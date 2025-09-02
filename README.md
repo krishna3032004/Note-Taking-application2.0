@@ -19,17 +19,15 @@ It handles the user interface and integrates with the backend API for authentica
    ```bash
    git clone https://github.com/krishna3032004/Note-Taking-application2.0.git
    cd frontend
-  ```
+  
 2. Install dependencies:
    ```bash
    npm install
 
-  ```
 3. Create a .env file in the frontend folder and add:
    ```bash
    REACT_APP_BACKEND_URL=http://localhost:5000
 
-  ```
 4. Run the development server:
    ```bash
    npm start

@@ -31,7 +31,6 @@ It handles the user interface and integrates with the backend API for authentica
 4. Run the development server:
    ```bash
    npm start
-  ```
 
 
 
